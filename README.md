@@ -5,7 +5,7 @@
 
 * 👀 I’m interested in **C, C++, OOP, Git, Algorithms, Data Structures.**
 
-* 👨‍💻 All of my projects are available at my repositories [page].(https://github.com/3dgarr?tab=repositories)
+* 👨‍💻 All of my projects are available at my repositories [page](https://github.com/3dgarr?tab=repositories).
 
 * 📫 How to reach me:                  <a href="https://www.linkedin.com/in/3dgarr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/> </a>
